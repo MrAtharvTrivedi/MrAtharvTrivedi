@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MrAtharvTrivedi
+- 👋 Hi, I’m AtharvTrivedi
 - 👀 I’m a Pyhton Programmer ...
-- 📫 Contact email: contact@atharvtrivedi ...
-- Portfolio: Https://atharvtrivedi.
+- 📫 Contact email: atharvtrivedi100@gmail.com
+- Portfolio: Website link will be available soon
 
